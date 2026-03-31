@@ -1,5 +1,5 @@
-package me.serbob.demo;
-
+package loose.oose.fis.lab.student.manager
+    
 import javafx.fxml.FXML;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
